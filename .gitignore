@@ -1,0 +1,6 @@
+cobc/parser.*
+cobc/ppparse.*
+cobc/pplex.*
+cobc/scanner.*
+
+build_windows/*
